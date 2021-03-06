@@ -1,0 +1,1 @@
+export { findAllNews } from './news.api'
