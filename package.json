@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start"
   },
+  "engines": {
+    "node": "14.7.0"
+  },
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "autoprefixer": "^9.8.6",
